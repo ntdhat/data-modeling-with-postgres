@@ -7,7 +7,7 @@
 
 The analytics team at Sparkify is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
-This project is for creating a new Postgres database optimized for queries on song play analysis.
+This project is build for the purpose of creating a new Postgres database dedicated for queries on song play analysis.
 
 ### Instructions
 
